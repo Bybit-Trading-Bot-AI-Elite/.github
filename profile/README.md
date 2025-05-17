@@ -76,12 +76,7 @@ A powerful AI-driven crypto trading bot built for Bybit. Designed for precision 
 
 ---
 
-### 🔍 SEO Keywords
+## 🔎 SEO Keywords
 
-`bybit trading bot`, `ai crypto bot`, `bybit scalping bot`, `bybit ai trading`, `crypto auto trader`,  
-`bybit strategy bot`, `bybit signals`, `ai trading algorithm`, `crypto scalping ai`, `bybit futures bot`,  
-`bybit spot bot`, `machine learning trading bot`, `crypto alert bot`, `auto bybit trader`, `trading bot for bybit`,  
-`telegram trading bot`, `discord trading bot`, `crypto bot python`, `smart crypto bot`, `ai trading signals`,  
-`crypto bot with dashboard`, `scalping crypto tool`, `automated bybit trader`, `ai signal crypto`,  
-`deep learning trading bot`, `python crypto bot`, `modular trading strategy`, `real-time crypto bot`,  
-`risk-managed trading bot`, `quantitative crypto bot`
+bybit, bybiut, bybitr, bybitcoin, bybtit, bybit+, bybitx, bybitlogin, bybit exchange, bybit app, bybit download, bybit sign up, bybit vom, bybitapp, bybitexchange, www bybit com, bybit trading, bybit trading bot, bybit futures, bybit copy trading, bybit testnet, bybit crypto, bybit coin, bybit app download, download bybit, bybit p2p, bybit download pc, bybit crypto exchange, bybit website, bybit trading fees
+
